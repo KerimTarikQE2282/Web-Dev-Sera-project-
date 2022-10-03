@@ -9,6 +9,7 @@ For authorization we used JWT framework and for Messaging we used SignalR
   
   
  ## Steps to Run Sera-Job Portal
- 1.  Enter the client-side folder
- 2.  Run npm i --force
- 3.  Then run npm run dev
+ 1.  Run the backend with visual studio 
+ 2.  Enter the client-side folder with terminal
+ 3.  Run npm i --force
+ 4.  Then run npm run dev
